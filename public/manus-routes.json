@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "لوحة العيادة" },
+    { "path": "/appointments", "title": "المواعيد" },
+    { "path": "/patients", "title": "المرضى" },
+    { "path": "/finance", "title": "الحسابات" },
+    { "path": "/settings", "title": "الإعدادات" },
+    { "path": "/patient-portal", "title": "بوابة المريض" }
+  ]
+}
